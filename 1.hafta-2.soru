@@ -1,0 +1,4 @@
+KM = int(input("Lutfen hesaplanmasini istediginizi miktari km cinsinden giriniz: "))
+MIL = KM / 1.609344
+
+print(MIL, "mil dir" )
