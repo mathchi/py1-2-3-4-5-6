@@ -1,0 +1,18 @@
+
+#LUTFEN MEMLEKETINIZI SUSLENDIREREK YAZDIRINIZ.
+
+print("""
+
+                    CCCCCCCCCCCCCCCCC
+                  %%%%             %%%%
+               %%%%                    %%%%
+            %%%%                          %%%%
+         %%%%                                %%%%
+                         MERSIN
+                         ~~~~~~
+         %%%%                               %%%%
+            %%%%                         %%%%
+               %%%%                   %%%%
+                  %%%%             %%%%
+                    CCCCCCCCCCCCCCCCC
+""")
