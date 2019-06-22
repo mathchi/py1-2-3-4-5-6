@@ -10,8 +10,11 @@ final_orani = final * 0.5
 derstakip_orani = ders_takip * 0.2
 Ogrenci_yil_sonu_notu = vize_orani + final_orani + derstakip_orani
 
-print("Adi: ", ad, ", \t", "Soyadi: ", soyad )
-print("Ders takip puani: ",ders_takip, "\n", "Vize puan Orani: ",
+dosya = open("ogrenciNotHesaplama.txt", "w")
+
+print("Adi: ", ad, ", \t", "Soyadi: ", soyad , "\n",
+"Ders takip puani: ",ders_takip, "\n", "Vize puan Orani: ",
       vize_orani, "\n", "Final puan Orani: ", final_orani,
       "\n","Ders takip puan orani: ", derstakip_orani, "\n",
-      "Ogrenci Yil Sonu Puani 100 uzerinden toplami: ", Ogrenci_yil_sonu_notu)
+      "Ogrenci Yil Sonu Puani 100 uzerinden toplami: ", Ogrenci_yil_sonu_notu, file=dosya)
+dosya.close()
