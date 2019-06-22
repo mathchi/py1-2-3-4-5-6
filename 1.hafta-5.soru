@@ -8,7 +8,8 @@ Aylik_toplam_harcama = mutfak_harcama + egitim_harcama + giyim_harcama + ulasim_
 
 Aylik_masraf_gelir_orani = Aylik_toplam_harcama / aylik_gelir
 
+dosya= open("aylikmasraf.txt", "w")
+print("Aylik toplam masraf", Aylik_toplam_harcama, "Euro'dur.", "\n",
+"Aylik harcanan miktarin aylik gelire orani ", Aylik_masraf_gelir_orani, "Euro'dur", file=dosya)
 
-print("Aylik toplam masraf", Aylik_toplam_harcama, "Euro'dur.")
-
-print("Aylik harcanan miktarin aylik gelire orani ", Aylik_masraf_gelir_orani, "Euro'dur")
+dosya.close()
