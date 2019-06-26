@@ -26,16 +26,3 @@ if (bool(username) == True):
 else:
     print("Please enter at least 3 letter for User Name... Try again. ")
 
-# if bool(username) == False:
-#    print("Please")
-# elif bool(username) == True:
-#    password = input("Please, enter a password between 6-12 characters: ")
-
-#    if 6 <= len(password) <= 12:
-#        print("Your Password : ", password)
-# elif len(password) != chr():
-#    print("At least should be one special character...")
-#    elif len(password) < 6 or len(password) > 12:
-#        print("Please, enter a password between 6-12 characters...")
-#    else:
-#        print("You can not use number in user name...")
