@@ -18,6 +18,4 @@ if bool(unit) == True:
 else:
     print("Please just enter 'km' or 'mil'...")
 
-# dosya=open("kmilemildonusumu.txt", "w")
-# print(MIL, "mil dir", file=dosya )
-# dosya.close()
+
