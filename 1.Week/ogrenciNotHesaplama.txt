@@ -1,0 +1,6 @@
+Adi:  mehmet , 	 Soyadi:  berk 
+ Ders takip puani:  95 
+ Vize puan Orani:  30.0 
+ Final puan Orani:  50.0 
+ Ders takip puan orani:  19.0 
+ Ogrenci Yil Sonu Puani 100 uzerinden toplami:  99.0
