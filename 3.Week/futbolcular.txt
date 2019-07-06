@@ -1,0 +1,70 @@
+Volkan Demirel,Fenerbahce
+Mauricio Isla,Fenerbahce
+Hasan Ali Kaldirim,Fenerbahce
+Simon Kjaer,Fenerbahce
+Mehmet Topal,Fenerbahce
+Alper Potuk,Fenerbahce
+Ozan Tufan,Fenerbahce
+Fernandao,Fenerbahce
+Robin van Persie,Fenerbahce
+Mehmet Ekici,Fenerbahce
+Uygar Zeybek,Fenerbahce
+Nabil Dirar,Fenerbahce
+Idriss Carlos Kameni,Fenerbahce
+Sener Ozbayrakli,Fenerbahce
+Volkan sen,Fenerbahce
+Ismail Koybasi,Fenerbahce
+Gregory van der Wiel,Fenerbahce
+Mathieu Valbuena,Fenerbahce
+Roman Neustadter,Fenerbahce
+Martin Skrtel,Fenerbahce
+Salih Ucan,Fenerbahce
+Josef de Souza,Fenerbahce
+Aatif Chahechouhe,Fenerbahce
+Miroslav Stoch,Fenerbahce
+Fernando Muslera,Galatasaray
+Mariano Ferreira,Galatasaray
+Maicon Pereira,Galatasaray
+Serdar Aziz,Galatasaray
+Ahmet Calik,Galatasaray
+Tolga Cigerci,Galatasaray
+Yasin Oztekin,Galatasaray
+Selcuk Inan,Galatasaray
+Eren Derdiyok,Galatasaray
+Younes Belhanda,Galatasaray
+Sinan Gumus,Galatasaray
+Martin Linnes,Galatasaray
+Ryan Donk,Galatasaray
+Emrah Bassan,Galatasaray
+Bafetimbi Gomis,Galatasaray
+TarIk Camdal,Galatasaray
+Hakan Balta,Galatasaray
+Lionel Carole,Galatasaray
+Garry Rodrigues,Galatasaray
+Koray Gunter,Galatasaray
+Nigel de Jong,Galatasaray
+Luis Cavanda,Galatasaray
+Eray Iscan,Galatasaray
+Alexander Milosevic,Besiktas
+Pepe,Besiktas
+Dusko Tosic,Besiktas
+Ricardo Quaresma,Besiktas
+Veli Kavlak,Besiktas
+Mustafa Pektemek,Besiktas
+Atiba Hutchinson,Besiktas
+Oguzhan Ozyakup,Besiktas
+Gokhan Tore,Besiktas
+Tolgay Arslan,Besiktas
+Pedro Franco,Besiktas
+Necip Uysal,Besiktas
+Aras Ozbiliz,Besiktas
+Cenk Tosun,Besiktas
+Tolga Zengin,Besiktas
+Andreas Beck,Besiktas
+Atinc Nukan,Besiktas
+Ryan Babel,Besiktas
+Denys Boyko,Besiktas
+Gokhan Gonul,Besiktas
+Caner Erkin,Besiktas
+Talisca,Besiktas
+Utku Yuvakuran,Besiktas
