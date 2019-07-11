@@ -1,0 +1,24 @@
+*ODEVLER*
+
+1-)Kullanicidan bir input aliniz. Input'taki küçük harfleri büyük harfe dönüstüren bir program yaziniz.
+Ör input: Hello World! 
+Ör output: HELLO WORLD!
+
+
+
+2-)Kullanicidan bir input aliniz. Girmis oldugu inputta büyük harf sayisi, küçük harf sayisi, rakam sayisi ve bunlarin haricindeki
+özel karakter sayilarini veren bir program yaziniz.
+
+
+
+3-)Kullanicidan bir input aliniz. Girmis oldugu inputtaki rakamlarin toplamini veren bir program yaziniz. (Kullanici rakam girmek zorunda degil.
+farkli karakter girisi de yapabilir.)
+Örnek input = "art12kl4*"
+
+
+
+4-)Futbolcular dosyasindaki futbolculardan ismi sesli harf ile baslayanlari ayri bir dosyaya yazdiriniz.
+
+
+
+5-)Futbolcular dosyasindaki futbolcu isimlerini yazdiginiz program ile Türkçe karakter içermeyecek bir hale getirip yeni bir dosyaya kaydediniz.
